@@ -1,5 +1,5 @@
-- Hi, I’m @Pooria90
-- I’m interested in Signal Processing and Machine Learning.
+- Hi, My name is Pooria Ashrafian.
+- I’m interested in Biomedical Signal Processing and Machine Learning.
 - How to reach me: pooria.ashrafian@gmail.com
 
 <!---
